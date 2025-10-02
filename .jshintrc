@@ -12,5 +12,8 @@
   "strict": true,
   "trailing": true,
 
-  "node": true
+  "node": true,
+  "globals": {
+    "Set": false
+  }
 }

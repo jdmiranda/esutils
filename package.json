@@ -27,6 +27,7 @@
     "url": "http://github.com/estools/esutils.git"
   },
   "devDependencies": {
+    "benchmark": "^2.1.4",
     "chai": "~1.7.2",
     "coffee-script": "~1.6.3",
     "jshint": "2.6.3",
